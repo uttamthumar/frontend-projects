@@ -22,7 +22,6 @@ const loadCards = () => {
         <p class="card__text">${data.desc}</p>
         <div class="cta-group">
             <a href="${data.live}" target="_blank" class="cta">Live Demo </a>
-            <a href="${data.code}" target="_blank" class="cta cta-rev">Code </a>
         </div>
     `;
 

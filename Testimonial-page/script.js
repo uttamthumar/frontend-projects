@@ -19,7 +19,7 @@ const users = [
     },
     {
         avatar: 'https://seocompanychandigarh.in/wp-content/uploads/2018/07/Sam-Revilter.jpg',
-        name: 'Dinesh Rout',
+        name: 'Uttam',
         desc: 'Web Developer',
         feedback: 'Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.'
     }
